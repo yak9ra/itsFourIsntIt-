@@ -2,8 +2,9 @@
 > **4?**
 
 ### Usage
-[!NOTE]
+> [!NOTE]
 > Must be in root directory
+
 *If you got time to import it, congrats!*
 
 ```python
